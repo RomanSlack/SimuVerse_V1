@@ -18,25 +18,28 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
   
 ## Installation
 
-1. **Clone the Repository**
+0. *Download Unity Project File (Includes Scripts)*
+   https://drive.google.com/drive/folders/14eSo32BejnApzxn0jZTgM-6BUi1KDfVa?usp=sharing 
+
+2. **Clone the Repository**
 
    ```bash
    git clone https://github.com/your-username/SimuVerse.git
    cd SimuVerse
    ```
 
-2. **Requirements**
+3. **Requirements**
 
    - Unity (2021.x or later)
    - Ollama and LLaMA models
    - Python (for local LLM setup)
    - .NET 6.0 SDK
 
-3. **Setting Up LLM Instances**
+4. **Setting Up LLM Instances**
 
    Make sure you have `ollama.exe` set up and add its path to the Unity `AgentBehavior.cs` script. Each agent can have its own LLM instance with the ability to use different language models.
 
-4. **Install Dependencies**
+5. **Install Dependencies**
 
    Ensure you have all required Unity packages installed. If necessary, install LLaMA 3 or Ollama through their respective repositories and follow the instructions for local deployment.
 
