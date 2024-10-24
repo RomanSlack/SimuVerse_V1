@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Project Lead**: Roman Slack
-- **Email**: rss2979@g.rit.edu
+- **Email**: romanslack1@gmail.com
 
 ---
 
