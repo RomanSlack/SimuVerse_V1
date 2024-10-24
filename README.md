@@ -69,6 +69,14 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 - **Call**: Allows agents to call another agent for help or collaboration.
 - **Memory System**: Agents store interactions and use the subconscious agent for long-term memory management.
 
+## Diagrams
+
+LLM Tools Foundation
+![alt text](http://url/to/img.png)
+
+
+
+
 ## Development Roadmap
 
 - **Subconscious Agent**: Expand the subconscious agent for enhanced memory handling and more complex task delegation.
