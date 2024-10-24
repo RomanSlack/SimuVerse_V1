@@ -72,7 +72,10 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 ## Diagrams
 
 LLM Tools Foundation
-![alt text](http://url/to/img.png)
+![alt text](DiagramToolsChartFigJam.PNG)
+![alt text](DiagramAgentToolsScripts.PNG)
+
+
 
 
 
