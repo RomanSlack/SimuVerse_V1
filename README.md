@@ -71,11 +71,17 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 
 ## Diagrams
 
-LLM Tools Foundation
-![alt text](DiagramToolsChartFigJam.PNG)
-![alt text](DiagramAgentToolsScripts.PNG)
+### LLM Tools Foundation
+<div align="center">
+  <h3>LLM Tools Foundation</h3>
+  <img src="DiagramToolsChartFigJam.PNG" alt="LLM Tools Foundation" width="500"/>
+</div>
 
-
+### Agent Tools and Scripts
+<div align="center">
+  <h3>Agent Tools and Scripts</h3>
+  <img src="DiagramAgentToolsScripts.PNG" alt="Agent Tools and Scripts" width="500"/>
+</div>
 
 
 
