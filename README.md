@@ -29,7 +29,6 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 
    - Unity (2021.x or later)
    - Ollama and LLaMA models
-   - LoRA module (optional)
    - Python (for local LLM setup)
    - .NET 6.0 SDK
 
