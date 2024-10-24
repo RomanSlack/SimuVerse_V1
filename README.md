@@ -114,4 +114,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify the content or adjust it according to your specific needs before putting it on GitHub!
