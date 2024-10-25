@@ -24,7 +24,7 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/SimuVerse.git
+   git clone https://github.com/RomanSlack/SimuVerse_V1.git
    cd SimuVerse
    ```
 
