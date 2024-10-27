@@ -1,7 +1,3 @@
-Here’s a detailed README template you can use for your SimuVerse project on GitHub:
-
----
-
 # SimuVerse
 
 **SimuVerse** is a multi-agent simulation environment powered by large language models (LLMs) integrated into Unity. The project focuses on creating interactive agents that use LLMs to perform tasks such as movement, communication, and tool-based interactions within a 2D grid environment. Each agent can communicate with other agents, interpret responses, and perform various actions such as pathfinding and interacting with tools like `MOVE`. 
@@ -59,7 +55,7 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 ### Ollama File structure
 <div align="center">
   <h3>Agent Tools and Scripts</h3>
-  <img src="Ollamaexample.jpg" alt="Ollama.exe files" width="500"/>
+  <img src="Ollamaexample.JPG" alt="Ollama.exe files" width="500"/>
 </div>
 
 
