@@ -56,6 +56,12 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
    ```csharp
    public string ollamaPath = "/path/to/ollama.exe";  // Path to your Ollama model
    ```
+### Ollama File structure
+<div align="center">
+  <h3>Agent Tools and Scripts</h3>
+  <img src="Ollamaexample.jpg" alt="Ollama.exe files" width="500"/>
+</div>
+
 
 3. **Start the Simulation**
 
