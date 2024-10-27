@@ -51,7 +51,7 @@ The goal of SimuVerse is to create a scalable, research-friendly platform that s
 
 2. **Configuring Agents**
 
-   Each agent in SimuVerse is configured in the `AgentBehavior` script, where you can set different LLM models and parameters.
+   Each agent in SimuVerse is configured in the `AgentBehavior` script and the `Interpreter` scruipt, where you can set different LLM models and parameters. You need to set the model to the ollama.exe models on your device, so for say 3 agents you need to create 4 different ollama.exe files, 3 for the agents and 1 for the interpreter. You need to either go into the properties tab in unity or change the paths in your IDE.
 
    ```csharp
    public string ollamaPath = "/path/to/ollama.exe";  // Path to your Ollama model
